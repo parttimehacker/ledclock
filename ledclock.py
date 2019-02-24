@@ -6,7 +6,6 @@ import datetime
 from threading import Thread
 import socket
 
-
 from Adafruit_Python_LED_Backpack.Adafruit_LED_Backpack import SevenSegment
 
 TIME_MODE = 0
